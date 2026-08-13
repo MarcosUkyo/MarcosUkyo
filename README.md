@@ -1,17 +1,66 @@
 # 👨‍💻 Marcos André Aragão da Cunha
 
-Técnico em Desenvolvimento de Sistemas
+**Técnico em Desenvolvimento de Sistemas**
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-andré-aragão-da-cunha-88a806285/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mc506526@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ukyo_dead)
+
+---
+
+## 📌 Sobre Mim
+
+Olá, mundo! Sou apaixonado por tecnologia e por transformar ideias em software funcional. Meu foco está no desenvolvimento **back-end** e em aplicações que integram **Inteligência Artificial**, unindo lógica, dados e automação para resolver problemas reais.
+
+Ao longo da minha formação, participei de projetos acadêmicos e colaborativos que me ensinaram a importância de trabalhar em equipe — dividir tarefas, alinhar ideias e evoluir junto com outros desenvolvedores. Gosto de aprender novas tecnologias na prática e de aplicar o que estudo em projetos reais.
+
+Fora do teclado, você me encontra pedalando por aí, numa quadra jogando basquete, ou imerso em algum mangá/livro da minha coleção — ou de controle na mão, jogando o que tiver na tela. 🎮📚🚴🏀
+
+---
+
+## 🧠 IDE's
+
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+## 🌐 Linguagens
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🛠 Back-End
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+## 🎨 Front-End
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+---
+
+## 🗄 Banco de Dados
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🔧 Controle de Versão
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -45,11 +94,3 @@ Bacharelado em Engenharia de Software · jan/2026 – dez/2030 *(em andamento)*
 - Arquiteto de IA e Responsabilidade Digital — Cruzeiro do Sul
 - Explorador do Universo Digital e IA — Cruzeiro do Sul
 - Fundamentos de TI: Hardware e Software — Fundação Bradesco
-
----
-
-## 📫 Contato
-
-<a href="https://www.linkedin.com/in/marcos-andré-aragão-da-cunha-88a806285/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
