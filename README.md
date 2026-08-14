@@ -93,7 +93,7 @@ Bacharelado em Engenharia de Software · jan/2026 – dez/2030 *(em andamento)*
 
 ## 📜 Certificados
 
-- [Competências Digitais Essenciais e Inteligência Artificial para o Sucesso](https://certificados.cruzeirodosulvirtual.com.br/blackboard/certificado/998b7c9ff76da5dae91f79757c3e80f5)
+- [Competências Digitais Essenciais e Inteligência Artificial para o Sucesso](https://certificados.cruzeirodosulvirtual.com.br/blackboard/certificado/998b7c9ff76da5dae91f79757c3e80f5) - Unicid
 - Fundamentos de TI: Hardware e Software — Fundação Bradesco
 
 
