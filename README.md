@@ -2,8 +2,10 @@
 
 **Técnico em Desenvolvimento de Sistemas**
 
+[![WhatsApp]([https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge))](https://wa.me/5511986743186)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-andré-aragão-da-cunha-88a806285/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mc506526@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rip_zard/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ukyo_dead)
 
 ---
@@ -59,6 +61,15 @@ Fora do teclado, você me encontra pedalando por aí, numa quadra jogando basque
 
 ---
 
+## 🤖Inteligências Artificiais (IA)
+
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
+[![Manus](https://img.shields.io/badge/Manus-2563EB?style=for-the-badge&logo=manus&logoColor=white)](https://manus.im/)
+[![Copilot](https://img.shields.io/badge/Copilot-7B61FF?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://copilot.microsoft.com/)
+
+---
+
 ## 🎓 Formação
 
 **ETEC Professor Basilides de Godoy**
@@ -82,12 +93,7 @@ Bacharelado em Engenharia de Software · jan/2026 – dez/2030 *(em andamento)*
 
 ## 📜 Certificados
 
-- Especialista em Estratégia e Ética Digital — Cruzeiro do Sul
-- Proficiência em Funções da Linguagem — Cruzeiro do Sul
-- Especialista em Escrita Assistida — Cruzeiro do Sul
-- Mestre em Engenharia de Prompt e Colaboração com IA — Cruzeiro do Sul
-- Arquiteto de IA e Responsabilidade Digital — Cruzeiro do Sul
-- Explorador do Universo Digital e IA — Cruzeiro do Sul
+- [Competências Digitais Essenciais e Inteligência Artificial para o Sucesso](https://certificados.cruzeirodosulvirtual.com.br/blackboard/certificado/998b7c9ff76da5dae91f79757c3e80f5)
 - Fundamentos de TI: Hardware e Software — Fundação Bradesco
 
 
