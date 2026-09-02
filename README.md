@@ -77,7 +77,7 @@ Fora do teclado, você me encontra pedalando por aí, numa quadra jogando basque
 Ensino Técnico, Desenvolvimento de Sistemas · fev/2025 – jun/2026
 
 **Universidade Cidade de São Paulo (Unicid)**
-Bacharelado em Engenharia de Software · jan/2026 – dez/2030 *(em andamento)*
+Bacharelado em Engenharia de Software · *(em andamento)*
 
 ---
 
