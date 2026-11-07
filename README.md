@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5C2D91,100:3DDC84&height=220&section=header&text=Marcos%20André&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Técnico%20em%20Desenvolvimento%20de%20Sistemas&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5C2D91,100:3DDC84&height=220&section=header&text=Marcos%20André&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Engenheiro%20de%20Software&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Banner"/>
 
 <a href="https://github.com/MarcosUkyo">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=620&lines=Back-end+%7C+Python+%7C+C%23+%7C+.NET;Aplica%C3%A7%C3%B5es+com+Intelig%C3%AAncia+Artificial;Automa%C3%A7%C3%A3o+com+n8n;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
