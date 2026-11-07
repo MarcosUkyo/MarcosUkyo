@@ -15,7 +15,7 @@ QUERY = """query($login:String!){user(login:$login){
  followers{totalCount}
  pullRequests{totalCount}
  issues{totalCount}
- repositories(ownerAffiliation:OWNER,isFork:false,first:100,privacy:PUBLIC){totalCount nodes{stargazerCount
+ repositories(ownerAffiliations:[OWNER],isFork:false,first:100,privacy:PUBLIC){totalCount nodes{stargazerCount
   languages(first:10,orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}}
  contributionsCollection{totalCommitContributions totalPullRequestReviewContributions
   contributionCalendar{totalContributions}}}}"""
