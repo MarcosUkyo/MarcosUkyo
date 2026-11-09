@@ -1,7 +1,7 @@
+
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5C2D91,100:3DDC84&height=220&section=header&text=Marcos%20André&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Engenheiro%20de%20Software&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Banner"/>
+<img src="./assets/headers/hud.svg" width="100%" alt="Marcos André — Técnico em Desenvolvimento de Sistemas"/>
 
 <a href="https://github.com/MarcosUkyo">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=620&lines=Back-end+%7C+Python+%7C+C%23+%7C+.NET;Aplica%C3%A7%C3%B5es+com+Intelig%C3%AAncia+Artificial;Automa%C3%A7%C3%A3o+com+n8n;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
@@ -15,17 +15,17 @@
 [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcosandre_04/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ukyo_dead)
 
-<img src="https://komarev.com/ghpvc/?username=MarcosUkyo&label=Visitas&color=5C2D91&style=for-the-badge" alt="Visitas"/>
+<img src="https://komarev.com/ghpvc/?username=MarcosUkyo-v2&label=Visitas&color=5C2D91&style=for-the-badge" alt="Visitas"/>
 
 </div>
 
 <div align="center">
 
-<img src="./assets/pokemon-walk.svg" width="100%" alt="Pokémons andando"/>
+<img src="./assets/pokemon/pokemon-walk.svg" width="100%" alt="Pokémons andando"/>
 
 </div>
 
----
+<img src="./assets/dividers/hud.svg" width="100%" alt=""/>
 
 ## 📌 Sobre Mim
 
@@ -38,32 +38,33 @@ Fora do teclado, você me encontra pedalando por aí, numa quadra jogando basque
 
 <br clear="right"/>
 
----
+<img src="./assets/dividers/hud.svg" width="100%" alt=""/>
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="215" alt="Estatísticas do GitHub" src="./assets/stats.svg" />
+<img height="215" alt="Estatísticas do GitHub" src="./assets/stats/stats.svg" />
 <a href="https://github.com/MarcosUkyo">
   <img height="215" alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=MarcosUkyo&theme=tokyonight&hide_border=true&border_radius=12&locale=pt_BR&ring=3DDC84&fire=A78BFA&currStreakLabel=3DDC84" />
 </a>
 
 </div>
 
----
+<img src="./assets/dividers/hud.svg" width="100%" alt=""/>
 
 ## 🔤 Linguagens Mais Usadas
 
 <div align="center">
 
-<img width="495" alt="Linguagens mais usadas" src="./assets/langs.svg" />
+<img width="495" alt="Linguagens mais usadas" src="./assets/stats/langs.svg" />
 
 </div>
 
----
+<img src="./assets/dividers/hud.svg" width="100%" alt=""/>
 
 ## 🧠 IDE's
+
 <div align="center">
 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -72,7 +73,7 @@ Fora do teclado, você me encontra pedalando por aí, numa quadra jogando basque
 
 </div>
 
----
+<img src="./assets/dividers/hud.svg" width="100%" alt=""/>
 
 ## 🛠 Tecnologias
 
@@ -88,7 +89,7 @@ Fora do teclado, você me encontra pedalando por aí, numa quadra jogando basque
 
 </div>
 
----
+<img src="./assets/dividers/hud.svg" width="100%" alt=""/>
 
 <!--
   ▼ REDES SOCIAIS — descomente depois de trocar os 3 valores marcados com <<< >>>
@@ -96,12 +97,10 @@ Fora do teclado, você me encontra pedalando por aí, numa quadra jogando basque
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/<<<ID_DO_CANAL>>>?style=for-the-badge&logo=youtube&logoColor=white&label=Inscritos&color=FF0000)](https://www.youtube.com/@<<<SEU_CANAL>>>)
-[![Instagram](https://img.shields.io/badge/Seguidores-<<<NUMERO>>>-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcosandre_04/)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/<<<ID_DO_CANAL>>>?style=for-the-badge&logo=youtube&logoColor=white&label=Inscritos&labelColor=FF0000&color=1a1b27)](https://www.youtube.com/@<<<SEU_CANAL>>>)
+[![Instagram](https://img.shields.io/badge/Seguidores-<<<NUMERO>>>-1a1b27?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584)](https://www.instagram.com/marcosandre_04/)
 
 </div>
-
----
 -->
 
 ## 🎓 Formação
@@ -123,7 +122,7 @@ Fora do teclado, você me encontra pedalando por aí, numa quadra jogando basque
   </tr>
 </table>
 
----
+<img src="./assets/dividers/hud.svg" width="100%" alt=""/>
 
 ## 🚀 Projetos
 
@@ -147,17 +146,17 @@ Fora do teclado, você me encontra pedalando por aí, numa quadra jogando basque
   </tr>
 </table>
 
----
+<img src="./assets/dividers/hud.svg" width="100%" alt=""/>
 
 ## 📜 Certificados
 
 - 🏅 [Competências Digitais Essenciais e Inteligência Artificial para o Sucesso](https://certificados.cruzeirodosulvirtual.com.br/blackboard/certificado/998b7c9ff76da5dae91f79757c3e80f5) — Unicid
 - 🏅 Fundamentos de TI: Hardware e Software — Fundação Bradesco
 
----
+<img src="./assets/dividers/hud.svg" width="100%" alt=""/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:5C2D91,100:0d1117&height=120&section=footer" width="100%" alt="Rodapé"/>
+<img src="./assets/footers/hud.svg" width="100%" alt="Obrigado pela visita!"/>
 
 </div>

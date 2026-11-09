@@ -5,7 +5,7 @@ import json, math, os, sys, urllib.request
 
 LOGIN = next((a for a in sys.argv[1:] if not a.startswith("--")), "MarcosUkyo")
 TOKEN = os.environ.get("STATS_TOKEN") or os.environ.get("GITHUB_TOKEN")
-OUT = os.path.join(os.path.dirname(__file__), "..", "assets")
+OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "stats")
 BG, BORDER, TITLE, TEXT, MUTED = "#1a1b27", "#2f3149", "#3DDC84", "#c0caf5", "#7a82a8"
 ACCENT = "#A78BFA"
 FONT = "'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif"
@@ -15,7 +15,7 @@ QUERY = """query($login:String!){user(login:$login){
  followers{totalCount}
  pullRequests{totalCount}
  issues{totalCount}
- repositories(ownerAffiliations:[OWNER],isFork:false,first:100,privacy:PUBLIC){totalCount nodes{stargazerCount
+ repositories(ownerAffiliation:OWNER,isFork:false,first:100,privacy:PUBLIC){totalCount nodes{stargazerCount
   languages(first:10,orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}}
  contributionsCollection{totalCommitContributions totalPullRequestReviewContributions
   contributionCalendar{totalContributions}}}}"""
